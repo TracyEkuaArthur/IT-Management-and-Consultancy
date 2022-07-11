@@ -1,38 +1,106 @@
-.App {
-  text-align: center;
+#homeheader_ {
+  background-color: rgba(0, 0, 0, 0.694);
+  background-image: url("/public/images/people.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#bg_img {
+  background-image: url("/public/images/prs.jpg");
+  background-position: center;
+  background-size: cover;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#bg-images {
+  background-image: url("/public/images/ft.jpg");
+  background-position: center;
+  background-size: cover;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#man_ {
+  background-image: url("/public/images/man.jpg");
+  background-position: center;
+  background-size: cover;
 }
-
-.App-link {
-  color: #61dafb;
+#group_ {
+  background-image: url("/public/images/group.jpg");
+  background-position: center;
+  background-size: cover;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#gp_ {
+  background-image: url("/public/images/group.jpg");
+  background-position: center;
+  background-size: cover;
+}
+#ig_ {
+  background-image: url("/public/images/lg.jpg");
+  background-position: center;
+  background-size: cover;
+}
+#tr_ {
+  background-image: url("/public/images/tr.jpg");
+  background-position: center;
+  background-size: cover;
+}
+#ar_ {
+  background-image: url("/public/images/ar.jpg");
+  background-position: center;
+  background-size: cover;
+}
+#contactheader_ {
+  background-color: rgba(0, 0, 0, 0.694);
+  background-image: url("/public/images/people.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+#service_ {
+  background-color: rgba(0, 0, 0, 0.694);
+  background-image: url("/public/images/tr.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 55vh;
+  width: 55vw;
+}
+#prs_ {
+  background-color: rgba(0, 0, 0, 0.694);
+  background-image: url("/public/images/prs.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 80vh;
+  width: 20vw;
+}
+#man_ {
+  background-color: rgba(0, 0, 0, 0.694);
+  background-image: url("/public/images/man.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 50vh;
+  width: 20vw;
+}
+#ser_ {
+  background-color: rgba(0, 0, 0, 0.694);
+  background-image: url("/public/images/ser.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 60vh;
+  width: 20vw;
+}
+#ser1_ {
+  background-color: rgba(0, 0, 0, 0.694);
+  background-image: url("/public/images/ser3.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 60vh;
+  width: 20vw;
+}
+#ser3_ {
+  background-color: rgba(0, 0, 0, 0.694);
+  background-image: url("/public/images/ser1.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 60vh;
+  width: 20vw;
 }
